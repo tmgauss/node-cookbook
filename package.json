@@ -1,0 +1,23 @@
+{
+  "name": "node-cookbook",
+  "version": "1.0.0",
+  "description": "This is the codes from Node Cookbook",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tmgauss/node-cookbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmgauss/node-cookbook/issues"
+  },
+  "homepage": "https://github.com/tmgauss/node-cookbook#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "formidable": "^1.2.2"
+  }
+}
